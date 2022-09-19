@@ -14,3 +14,11 @@ notes for springcloud
 - 全链路追踪
 - 自动化构建部署
 - 服务定时任务调度操作
+
+#Version
+cloud -> Hoxton.SR1 (H version)
+boot -> 2.2.2.RELEASE
+cloud alibaba -> 2.1.0.RELEASE
+java -> Java8
+Maven -> greater than 3.5
+Mysql -> greater than 5.7
