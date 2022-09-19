@@ -17,8 +17,13 @@ notes for springcloud
 
 # Version
 cloud -> Hoxton.SR1 (H version)
+
 boot -> 2.2.2.RELEASE
+
 cloud alibaba -> 2.1.0.RELEASE
+
 java -> Java8
+
 Maven -> greater than 3.5
+
 Mysql -> greater than 5.7
