@@ -15,7 +15,7 @@ notes for springcloud
 - 自动化构建部署
 - 服务定时任务调度操作
 
-#Version
+# Version
 cloud -> Hoxton.SR1 (H version)
 boot -> 2.2.2.RELEASE
 cloud alibaba -> 2.1.0.RELEASE
